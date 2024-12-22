@@ -1,4 +1,4 @@
-# PostBox 📬  
+# PostBox 
 A Sleek and Modern Email Client Built with the MERN Stack  
 
 ## About the Project  
@@ -35,7 +35,7 @@ This project demonstrates expertise in full-stack web development, responsive UI
    ```
 2. Install dependencies:
    ```bash   
-`  cd client  
+   cd client  
    npm install  
    cd ../server
    npm install  
