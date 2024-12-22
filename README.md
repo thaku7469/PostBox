@@ -46,7 +46,7 @@ This project demonstrates expertise in full-stack web development, responsive UI
 
 4. Start the development servers:
   
-  ```
+  ```bash
   # Start backend
   cd Server
   npm start
