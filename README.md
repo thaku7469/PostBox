@@ -74,7 +74,7 @@ This project demonstrates expertise in full-stack web development, responsive UI
 
 ## Demo
 
-- You can access the demo of this project by clicking [here](https://talkifyin.netlify.app//)
+- You can access the demo of this project by clicking [here](https://postboxx.netlify.app/)
 
 ## Screenshots
 
